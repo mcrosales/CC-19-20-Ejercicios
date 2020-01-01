@@ -7,4 +7,14 @@ __Instalar alguno de los entornos virtuales de node.js (o de cualquier otro leng
 
 ### Ejercicio 2: 
 
-__En la aplicación que se ha usado como ejemplo en el ejercicio anterior, ¿podría usar diferentes lenguajes? ¿Qué almacenes de datos serían los más convenientes?__
+__Crear una descripción del módulo usando package.json. En caso de que se trate de otro lenguaje, usar el método correspondiente__
+
+En el siguiente ejemplo se muestra como queda el archivo package.json luego de crear una aplicación react utilizando [create-react-app](https://github.com/facebook/create-react-app)
+
+![ ](img/package.jpg)
+
+### Ejercicio 3: 
+
+__Descargar el repositorio de ejemplo anterior, instalar las herramientas necesarias (principalmente Scala y sbt) y ejecutar el ejemplo desde sbt__
+
+![ ](img/sbt.jpg)
