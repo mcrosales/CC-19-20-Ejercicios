@@ -9,7 +9,7 @@ __Instalar alguno de los entornos virtuales de node.js (o de cualquier otro leng
 
 __Crear una descripción del módulo usando package.json. En caso de que se trate de otro lenguaje, usar el método correspondiente__
 
-En el siguiente ejemplo se muestra como queda el archivo package.json luego de crear una aplicación react utilizando [create-react-app](https://github.com/facebook/create-react-app)
+En el siguiente ejemplo se muestra como queda el archivo package.json luego de crear una aplicación [React](https://reactjs.org/) utilizando [create-react-app](https://github.com/facebook/create-react-app)
 
 ![ ](img/package.jpg)
 
